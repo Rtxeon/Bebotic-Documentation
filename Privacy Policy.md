@@ -2,7 +2,7 @@
 - We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Apera or servers where Apera is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 
-- Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Virtune to your Discord server, you agree that you have read and agree to this policy.
+- Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Bebotic to your Discord server, you agree that you have read and agree to this policy.
 
 
 
@@ -10,7 +10,7 @@
 - Server IDs for server data (prefixes, settings).
 - User IDs: Used to store for Mute and auto punish.
 - Few parts of message content for the automated features.
-- Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Virtune's users.
+- Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Bebotic's users.
 - The information we collect when you vote for Real on the third-party website Discord bot list
         - Your Username
         - Date and time when the votes counted.
